@@ -31,7 +31,7 @@
 		     </style>
 	 </head>
  <body>
-		  <h1>ПРИВЕТ!!!!!!!!!!!</h1>
+		  <h1>ШЕЛЛИИ!!! ахуеть</h1>
 		  <script>
 		      window.open("looser.html","_blank");
 		  </script>  
